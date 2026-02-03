@@ -1,0 +1,7 @@
+# Ignorar el entorno virtual
+venv/
+__pycache__/
+
+# Ignorar datos (opcional, pero recomendado si son pesados)
+# Por ahora subiremos el csv porque es liviano, pero es buena práctica saber esto.
+# data/
